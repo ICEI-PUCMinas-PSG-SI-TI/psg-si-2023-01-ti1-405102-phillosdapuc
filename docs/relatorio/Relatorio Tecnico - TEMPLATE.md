@@ -149,7 +149,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+    Metodologia
 > Descreva brevemente quais tecnologias e/ou frameworks foram utilizados no projeto.
 
 ## Wireframes
