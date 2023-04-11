@@ -152,22 +152,16 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
     Metodologia
 Na sua essência, metodologia é um conjunto de métodos, técnicas e processos que visam orientar a realização de uma atividade ou pesquisa. Existem várias metodologias diferentes que são utilizadas em diferentes áreas do conhecimento. Além disso, a metodologia também é importante na vida cotidiana, pois permite que as pessoas organizem suas atividades de forma mais eficiente e produtiva. Uma das principais vantagens da metodologia é que ela permite que as empresas tomem decisões baseadas em dados e informações concretas. Isso é especialmente importante em um mundo cada vez mais competitivo e complexo, onde as empresas precisam ser ágeis e flexíveis para se adaptar às mudanças do mercado e às demandas dos clientes.
 ------------------------------------------------------------------------------
-    Ambiente   | Plataforma   | Link de Acesso                                
+                Ambiente             | Plataforma   | Link de Acesso                                
 ------------------------------------------------------------------------------
-Repositório de | GitHub       | https://github.com/rommelcarneiro/tiaw-template
-código fonte   |              |
+Repositório de código fonte          | GitHub       | https://github.com/rommelcarneiro/tiaw-template
 -------------------------------------------------------------------------------
-Documentos do  | Google Drive | https://docs.google.com/
-projeto        |              |
+Documentos do projeto                | Google Drive | https://docs.google.com/
 ------------------------------------------------------------------------------
-Projeto de     | MarvelApp    | https://marvelapp.com/4hd6091
-Interface e    |              |
-Wireframes     |              |
+Projeto de Interface e Wireframes    | MarvelApp    | https://marvelapp.com/4hd6091
 ------------------------------------------------------------------------------
-Gerenciamento  | Trello       | https://trello.com/b/LupglzUz/tiaw-template
-do Projeto     |              |
+Gerenciamento do Projeto             | Trello       | https://trello.com/b/LupglzUz/tiaw-template
 ------------------------------------------------------------------------------
-
 
 
 ## Wireframes
