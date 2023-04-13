@@ -93,28 +93,21 @@ SISTEMAS DE INFORMAÇÃO
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto
+foi consolidada com a participação dos usuários em um trabalho feito pelos
+membros da equipe a partir da observação dos usuários em seu local natural e por meio de
+entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de
+personas e histórias de usuários.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Relacione as personas identificadas no seu projeto. Lembre-se que 
 > você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
-> Você pode incluir uma imagem da ficha de persona desenvolvida. 
+>**exeplo**
+>![persona 1](images/person1.png)
 >
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
 > 
 > **Exemplo de Ficha**
 > ![Exemplo de Persona](images/persona.png)
@@ -127,9 +120,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
 |Eduardo Pereira     |Diidir conhecimento                 | Ajudar pessoas a crescer               |
-|Eduardo Pereira     |Adquirir conhecimento de otras areas| Crescer profissionalmente e aprender novas coisas|
+|Eduardo Pereira     |Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
 |Vinicuis olieveira  |Trocar conhecimentos                | Despender tempo com aprendizado |
-|Vinicius Oliveira   |
+|Vinicius Oliveira   |Ajudar na área de desejo se eu puder|  
 |Larissa Amaral      |
 |Larissa Amaral      |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
@@ -230,5 +223,9 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
 > o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
 > as principais dificuldes encontradas e como foi possível contorná-las. 
+
+# REFERÊNCIAS
+
+TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
 
 
