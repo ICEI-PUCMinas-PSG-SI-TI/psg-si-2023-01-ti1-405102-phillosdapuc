@@ -233,14 +233,15 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 
 ## Mapa de navegação
 
-......  COLOQUE AQUI O SEU TEXTO OU DIAGRAMA DE NAVEGAÇÃO .......
-
-> Inclua uma descrição textual ou um diagrama mostrando, sequencialmente, quais ações
-> um usuário deve realizar para utilizar todas as características do seu sistema. 
+> O diagram apresenta a experiência do usuário começando a partir da página inicial, na qual
+> ele poderá acessar as páginas dos estudantes, o repositório, a categorização das áreas ou,
+> se desejar, fazer um cadastro para criar e modificar páginas. As páginas seguem um critério de
+> autentificação, no qual são necessários fontes, professores vigentes e também que o autor
+> esteja associado á area que deseja discutir.
 
 
 > **Exemplo de Diagrama (opcional, pode ser em texto)**
-> ![Exemplo de Diagrama de Navegação](images/userflow.jpg)
+> ![Exemplo de Diagrama de Navegação](images/Flowchart.jpg)
 
 # Conclusões
 
