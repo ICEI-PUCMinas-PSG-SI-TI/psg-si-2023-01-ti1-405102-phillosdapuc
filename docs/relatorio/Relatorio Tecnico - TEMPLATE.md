@@ -105,10 +105,10 @@ personas e histórias de usuários.
 As personas analisadas durante o processo de entendimento do poblema seguem as figuras abaixo:
 
 >**Personas**
->
->![](images/person1.png)
->![](images/person2.png)
->![](images/person3.png)
+
+>![p1](images/person1.png)
+>![p2](images/person2.png)
+>![p3](images/person3.png)
 
  
 
@@ -118,13 +118,17 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-|Eduardo Pereira     | Diidir conhecimento                 | Ajudar pessoas a crescer               |
+|Eduardo Pereira     | Dividir conhecimento                 | Ajudar pessoas a crescer               |
 |Eduardo Pereira     | Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
+|Eduardo Pereira     | Compartilhar o que as áreas que eu atuo realmente fazem | Pessoas interessadas não terem que perguntar toda hora | 
 |Vinicuis Olieveira  | Trocar conhecimentos                | Despender tempo com aprendizado |
 |Vinicius Oliveira   | Aprender sobre assuntos da minha própria área| Melhorar minhas notas |
+|Vinicius Oliveira   | Apresentar minhas duvidas | ter um melhor entendimento |
+|vinicius Oliveira   | Vizualizar conhecimentos da área de minha atuação | Gastar menos tempo procurando o que eu quero  |
 |Larissa Amaral      | Conhecer o que aprendem em outros cursos | Talvez trocar de curso |
 |Larissa Amaral      | Vizualizar um menu do que se faz em tal curso| Ter um melhor conhecimento de cada curso |
 |Larissa Amaral      | Abas que agilizam o uso do site | Economizar tempo |
+|Larissa Amaral      | quero saber  a fonte das informações | Para verificar a veracidade das informaões |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar materias/cursos                | Adicionar ou remover materias/cursos |
 
@@ -144,7 +148,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-001| Permitir que o usuário se cadastre no seu curso e nas materias que está em sua carga horaria | ALTA | 
 |RF-002| O site deve permitir ao usuário visualizar quem gostaria de trocar cohecimento da área desejada | MÉDIA |
 |RF-003| O site deve permitir ao usuário visualizar os cursos e materias | ALTA |
-|RF-004| 
+|RF-004| O site deve permitir ao usuário 
 |RF-005|
 |RF-006|
 |RF-007|
@@ -159,10 +163,10 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RNF-001| Permitir que o usuário se cadastre no seu curso e nas materias que ésta em sua carga horaria | ALTA |
+|RNF-001| O site deverá ser responsivo permitindo a visualização em celulares de forma adequada | ALTA |
 |RNF-002| O site deve ser publicado em um ambiente acessível Publicamente na Internet (Repl.it, GitHub Pages...)| ALTA |
-|RNF-003|
-|RFN-004|
+|RNF-003| O site deve ter bom nível de contraste entre os elementos datela em conformidade | MÉDIA |
+|RFN-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA |
 |RFN-005|
 
 ### Restrições
