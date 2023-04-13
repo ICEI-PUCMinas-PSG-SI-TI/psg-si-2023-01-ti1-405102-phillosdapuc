@@ -102,9 +102,8 @@ personas e histórias de usuários.
 
 ## Personas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+As personas analisadas durante o processo de entendimento do poblema seguem as figuras abaixo:
 
-> você deve descrever precisamente e de forma personalizada o público alvo do seu projeto. 
 >**Personas**
 >![persona 1](images/person1.png)
 >![persona 2](images/person2.png)
@@ -118,13 +117,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-|Eduardo Pereira     |Diidir conhecimento                 | Ajudar pessoas a crescer               |
-|Eduardo Pereira     |Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
-|Vinicuis Olieveira  |Trocar conhecimentos                | Despender tempo com aprendizado |
-|Vinicius Oliveira   |Aprender sobre assuntos da minha própria área| Melhorar minhas notas e agilizar processos |
-|Vinicius oliaveira  |
-|Larissa Amaral      |Conhecer o que aprendem em outros cursos | Talvez trocar de curso |
-|Larissa Amaral      |
+|Eduardo Pereira     | Diidir conhecimento                 | Ajudar pessoas a crescer               |
+|Eduardo Pereira     | Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
+|Vinicuis Olieveira  | Trocar conhecimentos                | Despender tempo com aprendizado |
+|Vinicius Oliveira   | Aprender sobre assuntos da minha própria área| Melhorar minhas notas |
+|Larissa Amaral      | Conhecer o que aprendem em outros cursos | Talvez trocar de curso |
+|Larissa Amaral      | Vizualizar 
+|Larissa Amaral      | 
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar materias/cursos                | Adicionar ou remover materias/cursos |
 
