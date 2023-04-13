@@ -122,7 +122,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Eduardo Pereira     | Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
 |Eduardo Pereira     | Compartilhar o que as áreas que eu atuo realmente fazem | Pessoas interessadas não terem que perguntar toda hora |
 |Eduardo Pereira     | Fazer uma pesquisa sobre um tema especifico | Obejetividade em leituras |
-|Vinicuis Olieveira  | Trocar conhecimentos                | Despender tempo com aprendizado |
+|Vinicuis Oliveira   | Trocar conhecimentos                | Despender tempo com aprendizado |
 |Vinicius Oliveira   | Aprender sobre assuntos da minha própria área| Melhorar minhas notas |
 |Vinicius Oliveira   | Apresentar minhas duvidas | ter um melhor entendimento |
 |vinicius Oliveira   | Vizualizar conhecimentos da área de minha atuação | Gastar menos tempo procurando o que eu quero  |
@@ -150,18 +150,17 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-002| O site deve permitir ao usuário visualizar quem gostaria de trocar cohecimento da área desejada | MÉDIA |
 |RF-003| O site deve permitir ao usuário visualizar os cursos e materias | ALTA |
 |RF-004| O site deve permitir ao usuário vizualizar a fonte para confiablidade da/das informações | ALTA |
-|RF-005| O site deve
-|RF-006| O site deve
-|RF-007| O site deve
-|RF-008| O site deve
-|RF-009| O site deve
-|RF-010| O site deve
-|RF-011| O site deve
-|RF-012| O site deve
-|RF-013| O site deve
-|RF-014| O site deve
-|RF-015| O site deve
-
+|RF-005| O site deve filtro/pesquisa para permitir ao usuário localizar um tema específico que será informado na caixa de pesquisa. | ALTA |
+|RF-006| O site deve apresentar na tela de materias/cursos quem está interessado nela | ALTA |
+|RF-007| O site deve 
+|RF-008| O site deve 
+|RF-009| O site deve 
+|RF-010| O site deve 
+|RF-011| O site deve 
+|RF-012| O site deve 
+|RF-013| O site deve 
+|RF-014| O site deve 
+|RF-015| O site deve 
 
 ### Requisitos Não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
