@@ -122,10 +122,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Eduardo Pereira     |Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
 |Vinicuis Olieveira  |Trocar conhecimentos                | Despender tempo com aprendizado |
 |Vinicius Oliveira   |Aprender sobre assuntos da minha própria área| Melhorar minhas notas e agilizar processos |
+|Vinicius oliaveira  |
 |Larissa Amaral      |Conhecer o que aprendem em outros cursos | Talvez trocar de curso |
 |Larissa Amaral      |
-|Pietra Giannechi    |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Alterar materias/cursos                | Adicionar ou remover materias/cursos |
 
 
 ## Requisitos
@@ -136,7 +137,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário se cadastre no seu curso e nas materias que ésta em sua carga horaria | ALTA | 
+|RF-001| Permitir que o usuário se cadastre no seu curso e nas materias que está em sua carga horaria | ALTA | 
 |RF-002| O site deve permitir ao usuário visualizar quem gostaria de trocar cohecimento da área desejada | MÉDIA |
 |RF-003| O site deve permitir ao usuário visualizar os cursos e materias | ALTA |
 |RF-004| 
