@@ -64,6 +64,14 @@ SISTEMAS DE INFORMAÇÃO
 > **Link Útil**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
+## Justificativa
+
+......  TEXTO  ......
+
+> Dados do projeto e pesquisa
+> Pesquisa para o desenvolvimento
+
+
 ## Público-Alvo
 
 ......  COLOQUE AQUI O SEU TEXTO ......
