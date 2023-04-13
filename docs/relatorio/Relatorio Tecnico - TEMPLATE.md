@@ -10,10 +10,14 @@ SISTEMAS DE INFORMAÇÃO
 ## Participantes
 
 > Darwin Luan Ferreira Gonzaga Tonelli
-> Hadassa Brenda
-> Naasom
-> Victor
-> Gustavo
+> 
+> Gustavo Coelho Castro Pereira
+> 
+> Hadassa Brenda Souza Santos
+> 
+> Naasom Gabriel Abreu Correira Rodrigues
+> 
+> Victor de Castro Nakabayashi
 
 # Estrutura do Documento
 
