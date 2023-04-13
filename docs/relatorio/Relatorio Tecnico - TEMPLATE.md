@@ -1,21 +1,19 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PHILOS DA PUC
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+SISTEMAS DE INFORMAÇÃO
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> Darwin Luan Ferreira Gonzaga Tonelli
+> Hadassa Brenda
+> Naasom
+> Victor
+> Gustavo
 
 # Estrutura do Documento
 
