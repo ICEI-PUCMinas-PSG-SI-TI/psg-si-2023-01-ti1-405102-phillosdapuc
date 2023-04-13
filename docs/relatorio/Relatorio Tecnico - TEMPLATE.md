@@ -163,7 +163,7 @@ Documentos do projeto                | Google Drive | https://docs.google.com/
 Projeto de Interface e Wireframes    | MarvelApp    | https://marvelapp.com/4hd6091
 
 ------------------------------------------------------------------------------
-Gerenciamento do Projeto             | Trello       | https://trello.com/b/LupglzUz/tiaw-template
+Gerenciamento do Projeto             | Trello       | https://trello.com/b/aapgz6Ds/kanban-projeto-philos
 
 ------------------------------------------------------------------------------
 
