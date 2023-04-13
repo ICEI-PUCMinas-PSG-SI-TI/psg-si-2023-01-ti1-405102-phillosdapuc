@@ -124,9 +124,14 @@ SISTEMAS DE INFORMAÇÃO
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Eduardo Pereira     |Diidir conhecimento                 | Ajudar pessoas a crescer               |
+|Eduardo Pereira     |Adquirir conhecimento de otras areas| Crescer profissionalmente e aprender novas coisas|
+|Vinicuis olieveira  |Trocar conhecimentos                | Despender tempo com aprendizado |
+|Vinicius Oliveira   |
+|Larissa Amaral      |
+|Larissa Amaral      |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o
@@ -146,8 +151,17 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o usuário se cadastre no seu curso e nas materias que ésta em sua carga horaria | ALTA | 
+|RF-002| O site deve permitir ao usuário visualizar quem gostaria de trocar cohecimento da área desejada | MÉDIA |
+|RF-003| O site deve permitir ao usuário visualizar os cursos e materias | ALTA |
+|RF-004| 
+|RF-005|
+|RF-006|
+|RF-007|
+|RF-008|
+|RF-009|
+|RF-010|
+|RF-011|
 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
