@@ -105,9 +105,10 @@ personas e histórias de usuários.
 As personas analisadas durante o processo de entendimento do poblema seguem as figuras abaixo:
 
 >**Personas**
->![persona 1](images/person1.png)
->![persona 2](images/person2.png)
->![persona 3](images/person3.png)
+>
+>![](images/person1.png)
+>![](images/person2.png)
+>![](images/person3.png)
 
  
 
@@ -122,17 +123,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Vinicuis Olieveira  | Trocar conhecimentos                | Despender tempo com aprendizado |
 |Vinicius Oliveira   | Aprender sobre assuntos da minha própria área| Melhorar minhas notas |
 |Larissa Amaral      | Conhecer o que aprendem em outros cursos | Talvez trocar de curso |
-|Larissa Amaral      | Vizualizar 
-|Larissa Amaral      | 
+|Larissa Amaral      | Vizualizar um menu do que se faz em tal curso| Ter um melhor conhecimento de cada curso |
+|Larissa Amaral      | Abas que agilizam o uso do site | Economizar tempo |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar materias/cursos                | Adicionar ou remover materias/cursos |
 
 
 ## Requisitos
 
-A tabela que segue apresenta os requisitos funcionais do projeto. 
+O escopo funcional do projeto é definido por meio dos requisitos funcionais que descrevem
+as possibilidades interação dos usuários, bem como os requisitos não funcionais que
+descrevem os aspectos que o sistema deverá apresentar de maneira geral, também é apresentado as restrições. Estes requisitos
+são apresentados a seguir.
 
 ### Requisitos Funcionais
+A tabela que segue apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -150,6 +155,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 
 ### Requisitos Não Funcionais
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
@@ -160,6 +166,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RFN-005|
 
 ### Restrições
+As questões que limitam a execução desse projeto e que se configuram como obrigações
+claras para o desenvolvimento do projeto em questão são apresentadas na tabela a seguir.
 
 |ID    | Descrição do Requisito  |
 |------|-----------------------------------------|
