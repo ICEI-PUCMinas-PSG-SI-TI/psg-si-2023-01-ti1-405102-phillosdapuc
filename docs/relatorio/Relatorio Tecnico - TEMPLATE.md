@@ -122,6 +122,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Eduardo Pereira     | Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
 |Eduardo Pereira     | Compartilhar o que as áreas que eu atuo realmente fazem | Pessoas interessadas não terem que perguntar toda hora |
 |Eduardo Pereira     | Fazer uma pesquisa sobre um tema especifico | Obejetividade em leituras |
+|EDuardo Pereira     | Avaliar se as informações são verdadeiras | Para os usários não adquirirem informaçoes falsas |
 |Vinicuis Oliveira   | Trocar conhecimentos                | Despender tempo com aprendizado |
 |Vinicius Oliveira   | Aprender sobre assuntos da minha própria área| Melhorar minhas notas |
 |Vinicius Oliveira   | Apresentar minhas duvidas | ter um melhor entendimento |
@@ -152,7 +153,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-004| O site deve permitir ao usuário vizualizar a fonte para confiablidade da/das informações | ALTA |
 |RF-005| O site deve filtro/pesquisa para permitir ao usuário localizar um tema específico que será informado na caixa de pesquisa. | ALTA |
 |RF-006| O site deve apresentar na tela de materias/cursos quem está interessado nela | ALTA |
-|RF-007| O site deve 
+|RF-007| O site deve permiter que professores e coordenadores possam avaliar se as informaçoes trocadas entre usuários é verdadeira | ALTA |
 |RF-008| O site deve 
 |RF-009| O site deve 
 |RF-010| O site deve 
