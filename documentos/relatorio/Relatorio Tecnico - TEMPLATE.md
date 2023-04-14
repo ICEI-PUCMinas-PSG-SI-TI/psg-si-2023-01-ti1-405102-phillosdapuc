@@ -38,9 +38,8 @@ SISTEMAS DE INFORMAÇÃO
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-
-Há muito tempo é notável o acúmulo de conhecimento que circunda na vida da população. Cada vez mais a informação se torna essencial para tomadas de decisões e para construção de novos conhecimentos. O avanço tecnológico trouxe consigo a revolução da internet e com ela surgiu uma problemática relacionada ao excesso de informações não confiáveis, em que qualquer pessoa está apita a publicar qualquer matéria na Web, sem ser necessariamente fidedigna. Com isso, existe a imensa disponibilidade de conteúdo online que faz com que haja necessidade de capacidade crítica para identificar potenciais fontes confiáveis de informação para que suas necessidades sejam atendidas de uma forma com que o conteúdo introduzido não seja infundado. 
-
+Há muito tempo é notável o acúmulo de conhecimento que circunda na vida da população. Cada vez mais a informação se torna essencial para tomadas de decisões e para construção de novos conhecimentos. O avanço tecnológico trouxe consigo a revolução da internet e com ela surgiu uma problemática relacionada ao excesso de informações não confiáveis, em que qualquer pessoa está apita a publicar qualquer matéria na Web, sem ser necessariamente fidedigna. Com isso, existe a imensa disponibilidade de conteúdo online que faz com que haja necessidade de capacidade crítica para identificar potenciais fontes confiáveis de informação para que suas necessidades sejam atendidas, pois é difícil identificar fontes confiáveis de conteúdo.
+	
 Diante disso, observamos que a população, principalmente, os estudantes universitários estão cada vez mais sem tempo no seu dia a dia para acessar diversas páginas para tentar localizar os conteúdos que estão com questionamento, não havendo na maioria das vezes oportunidade para checar se cada assunto achado procede. Sendo assim, acaba existindo uma escassez sobre conteúdos verídicos, e dificuldade nas buscas por informações.
 
  Perante isso, torna-se fundamental haver um site que englobe esses diversos fatores e busque sanar essas limitações, criando um espaço onde haja confiança, imparcialidade e facilidade para ajudar os alunos a terem acesso rápido aos conteúdos que tenham dúvidas, e, com isso, consigam debater sobre, achando assim uma resposta confiável e um portal de fácil acesso. 
@@ -61,11 +60,13 @@ Como objetivos específicos, podemos ressaltar:
 
 
 ## Justificativa
-
 Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”. 
  
-Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. A maior dificuldade nessa busca de conhecimento são as noticias falsas que circulam na internet, perante isso, vemos que no Brasil, quatro em cada 10 pessoas afirmam receber notícias falsas todos os dias. O número é ainda maior entre os brasileiros que se preocupam em cair em noticias infundadas ou que seus parentes caiam. Nesse cenário, o índice sobe para 65%. Os dados fazem parte de um levantamento feito pela Poynter Institute, escola de jornalismo e organização de pesquisas americana, e conta com apoio do Google.
-Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
+Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
+
+> Dados do projeto e pesquisa
+> Pesquisa para o desenvolvimento
+
 
 ## Público-Alvo
 
@@ -196,23 +197,65 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 
 
 ## Wireframes
-
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
 > 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
+> **Página Inicial**:
+>
+> ![Oágina Inicial][docs/relatorio/images/Flowchart.jpg]
 > 
-> **Exemplo**:
+> Esta página será mostrada assim que o usuário entrar no site, oferecendo acesso às páginas
+> principais e à um link de cadastro, caso este queira se tornar parte do grupo de editores do site
 > 
-> ![Exemplo de Link para Wireframe](docs/relatorio/images/Flowchart.jpg)
+> **Página de Cadastro**
+> 
+> ![Página de Cadastro][docs/relatorio/images/Página-de-Cadastro.jpg]
+> 
+> O cadastro possui campos de preenchimento para validar um nome de usuário, Nome verdadeiro,
+> assim como outras informações como idade, sexo, foto (opcional) e descrição do mesmo
+> 
+> **Página de Estudantes**
+> 
+> ![Página de Estudantes][docs/relatorio/images/Página-de-Estudantes.jpg]
+> 
+> Ao entrar nessa página, é possível visualizar e encontrar usuários através da pesquisa
+> e visulizar seus dados, como nome, idade, sexo, breve descrição e confiabilidade
+> 
+> **Página de Áreas**
+> 
+> ![Página de Áreas][docs/relatorio/images/Página-de-Áreas.jpg]
+> 
+> Permite a visulização da áreas de estudo, matérias pertinentes e filtros de pesquisa para
+> que o usuário ache de forma mais fácil o que deseja saber
+> 
+> **Repositório**
+> 
+> ![Repositório][docs/relatorio/images/Página-de-Arquivos.jpg]
+> 
+> Contém os arquivos submetidos ao site pelos usuários para sua consulta ou utilização com base
+> nos devidos critérios. Possui também a opção de inserir um arquivo, criar uma página, ou criar
+> seu próprio arquivo em um editor.
+> 
+> **Criação de Páginas**
+> 
+> ![Criação de páginas][docs/relatorio/images/Criação-de-Páginas.jpg]
+> 
+> Permite a edição e criação de páginas. Tais páginas serão armazenadas no repositório, e sua edição
+> será possível através do usuário. Na sua criação, o usuário deve referenciar links de consulta e 
+> informações que validem o que está escrito.
+> 
+> **Página de perfil**
+> 
+> ![Perfil][docs/relatorio/images/Página-de-Estudantes-2.jpg]
+> 
+> Visualiza o perfil em questão, sendo acessado a partir da página dos estudantes. Possui informações
+> mais detalhadas a respeito do indivíduo e possivelmente formas de contatá-lo.
+> 
+> **Página de texto**
+> 
+> ![Texto][docs/relatorio/images/Página-de-Texto.jpg]
+> 
+> Seguinte ao link no repositório ou à criação de páginas, ela exibe o texto sobre o determinado assunto
+> escrito, contendo referências e título. Pode ser acompanhada por imagens e também ser dividida em tópicos
+> para melhor acessibilidade.
 
 
 ## Mapa de navegação
@@ -224,20 +267,18 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > esteja associado á area que deseja discutir.
 
 
-> ![Exemplo de Diagrama de Navegação](images/Flowchart.jpg)
+> ![Exemplo de Diagrama de Navegação][docs/relatorio/images/Flowchart.jpg]
 
-# Conclusão
+# Conclusões
 
-O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, podendo se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto em consideração que falta ainda colocar as ideias em práticas e fazer os testes.
+......  COLOQUE AQUI O SEU TEXTO ......
 
-Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais dinâmica a execução, não havendo mais uma dificuldade explicita.
-
-
+> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
+> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
+> as principais dificuldes encontradas e como foi possível contorná-las. 
 
 # REFERÊNCIAS
-RODRIGUES, P. G., Cleber. 4 em cada 10 brasileiros afirmam receber fake news diariamente. Disponível em: <https://www.cnnbrasil.com.br/nacional/4-em-cada-10-brasileiros-afirmam-receber-fake-news-diariamente/#:~:text=No%20Brasil%2C%20quatro%20em%20cada>.
-
-44% dos brasileiros dizem receber fake news diariamente; veja pesquisa. Disponível em: <https://www.techtudo.com.br/noticias/2022/08/44percent-dos-brasileiros-dizem-receber-fake-news-diariamente-veja-pesquisa.ghtml>.
 
 TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
+
 
