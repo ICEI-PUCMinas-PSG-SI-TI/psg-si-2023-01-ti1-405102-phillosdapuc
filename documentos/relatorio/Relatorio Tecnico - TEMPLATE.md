@@ -200,7 +200,7 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > 
 > **Página Inicial**:
 >
-> ![Oágina Inicial][docs/relatorio/images/Flowchart.jpg]
+> ![Página Inicial][docs/relatorio/images/Flowchart.jpg]
 > 
 > Esta página será mostrada assim que o usuário entrar no site, oferecendo acesso às páginas
 > principais e à um link de cadastro, caso este queira se tornar parte do grupo de editores do site
