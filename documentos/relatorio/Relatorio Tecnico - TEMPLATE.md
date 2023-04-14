@@ -213,7 +213,7 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Link para Wireframe](images/Flowchart.jpg)
+> ![Exemplo de Link para Wireframe](docs/relatorio/images/Flowchart.jpg)
 
 
 ## Mapa de navegação
