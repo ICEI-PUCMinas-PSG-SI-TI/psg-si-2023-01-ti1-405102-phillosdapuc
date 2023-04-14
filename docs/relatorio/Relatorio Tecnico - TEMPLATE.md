@@ -151,7 +151,7 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-002| O site deve permitir ao usuário cadastrar seu curso e matérias que estuda | ALTA |
 |RF-003| O site deve permitir ao usuário visualizar os cursos e matérias e escolher quais tem interesse | ALTA |
 |RF-004| O site deve permitir ao usuário vizualizar a fonte para confiablidade da/das informações | ALTA |
-|RF-005| O site deve filtro/pesquisa para permitir ao usuário localizar um tema específico que será informado na caixa de pesquisa. | ALTA |
+|RF-005| O site deve filtro/pesquisa para permitir ao usuário localizar um tema específico que será informado na caixa de pesquisa. | MÉDIA |
 |RF-006| O site deve apresentar nas partes de materias/cursos quem está interessado em qual | MÉDIA |
 |RF-007| O site deve permiter que professores e coordenadores possam avaliar se as informaçoes trocadas entre usuários é verdadeira | ALTA |
 |RF-008| O site deve permitir o usuário poder comentar suas dúvidas | ALTA |
