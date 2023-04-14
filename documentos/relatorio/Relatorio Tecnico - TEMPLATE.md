@@ -200,7 +200,7 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > 
 **Página Inicial**:
 >
-![Página Inicial][docs/relatorio/images/Flowchart.jpg]
+![Página Inicial](docs/relatorio/images/Flowchart.jpg)(https://github.com/ICEI-PUCMinas-PSG-SI-TI/psg-si-2023-01-ti1-405102-phillosdapuc/blob/ffcbb0ba2229065f6c9035d04942641eb9cc15c2/docs/relatorio/images/P%C3%A1gina%20Inicial.jpg)
 
 Esta página será mostrada assim que o usuário entrar no site, oferecendo acesso às páginas
 principais e à um link de cadastro, caso este queira se tornar parte do grupo de editores do site
