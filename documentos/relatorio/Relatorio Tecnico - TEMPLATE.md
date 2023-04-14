@@ -38,8 +38,9 @@ SISTEMAS DE INFORMAÇÃO
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-Há muito tempo é notável o acúmulo de conhecimento que circunda na vida da população. Cada vez mais a informação se torna essencial para tomadas de decisões e para construção de novos conhecimentos. O avanço tecnológico trouxe consigo a revolução da internet e com ela surgiu uma problemática relacionada ao excesso de informações não confiáveis, em que qualquer pessoa está apita a publicar qualquer matéria na Web, sem ser necessariamente fidedigna. Com isso, existe a imensa disponibilidade de conteúdo online que faz com que haja necessidade de capacidade crítica para identificar potenciais fontes confiáveis de informação para que suas necessidades sejam atendidas, pois é difícil identificar fontes confiáveis de conteúdo.
-	
+
+Há muito tempo é notável o acúmulo de conhecimento que circunda na vida da população. Cada vez mais a informação se torna essencial para tomadas de decisões e para construção de novos conhecimentos. O avanço tecnológico trouxe consigo a revolução da internet e com ela surgiu uma problemática relacionada ao excesso de informações não confiáveis, em que qualquer pessoa está apita a publicar qualquer matéria na Web, sem ser necessariamente fidedigna. Com isso, existe a imensa disponibilidade de conteúdo online que faz com que haja necessidade de capacidade crítica para identificar potenciais fontes confiáveis de informação para que suas necessidades sejam atendidas de uma forma com que o conteúdo introduzido não seja infundado. 
+
 Diante disso, observamos que a população, principalmente, os estudantes universitários estão cada vez mais sem tempo no seu dia a dia para acessar diversas páginas para tentar localizar os conteúdos que estão com questionamento, não havendo na maioria das vezes oportunidade para checar se cada assunto achado procede. Sendo assim, acaba existindo uma escassez sobre conteúdos verídicos, e dificuldade nas buscas por informações.
 
  Perante isso, torna-se fundamental haver um site que englobe esses diversos fatores e busque sanar essas limitações, criando um espaço onde haja confiança, imparcialidade e facilidade para ajudar os alunos a terem acesso rápido aos conteúdos que tenham dúvidas, e, com isso, consigam debater sobre, achando assim uma resposta confiável e um portal de fácil acesso. 
@@ -60,13 +61,11 @@ Como objetivos específicos, podemos ressaltar:
 
 
 ## Justificativa
+
 Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”. 
  
-Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
-
-> Dados do projeto e pesquisa
-> Pesquisa para o desenvolvimento
-
+Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. A maior dificuldade nessa busca de conhecimento são as noticias falsas que circulam na internet, perante isso, vemos que no Brasil, quatro em cada 10 pessoas afirmam receber notícias falsas todos os dias. O número é ainda maior entre os brasileiros que se preocupam em cair em noticias infundadas ou que seus parentes caiam. Nesse cenário, o índice sobe para 65%. Os dados fazem parte de um levantamento feito pela Poynter Institute, escola de jornalismo e organização de pesquisas americana, e conta com apoio do Google.
+Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
 
 ## Público-Alvo
 
@@ -211,25 +210,9 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > 
-> **Página Inicial**:
->
-> ![Oágina Inicial][docs/relatorio/images/Flowchart.jpg]
-> Esta página será mostrada assim que o usuário entrar no site, oferecendo acesso às páginas
-> principais e à um link de cadastro, caso este queira se tornar parte do grupo de editores do site
+> **Exemplo**:
 > 
-> **Página de Cadastro**
-> 
-> ![Página de Cadastro][docs/relatorio/images/Página-de-Cadastro.jpg]
-> O cadastro possui campos de preenchimento para validar um nome de usuário, Nome verdadeiro,
-> assim como outras informações como idade, sexo, foto (opcional) e descrição do mesmo
-> 
-> **Página de Estudantes**
-> 
-> ![Página de Estudantes][docs/relatorio/images/Página-de-Estudantes.jpg]
-> Ao entrar nessa página, é possível visualizar e encontrar usuários através da pesquisa
-> e visulizar seus dados, como nome, idade, sexo, breve descrição e confiabilidade
-> 
-> **Página de Áreas**
+> ![Exemplo de Link para Wireframe](docs/relatorio/images/Flowchart.jpg)
 
 
 ## Mapa de navegação
@@ -241,18 +224,18 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > esteja associado á area que deseja discutir.
 
 
-> ![Exemplo de Diagrama de Navegação][docs/relatorio/images/Flowchart.jpg]
+> ![Exemplo de Diagrama de Navegação](images/Flowchart.jpg)
 
-# Conclusões
+# Conclusão
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, podendo se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto em consideração que falta ainda colocar as ideias em práticas e fazer os testes.
 
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais dinâmica a execução, não havendo mais uma dificuldade explicita.
+
+
 
 # REFERÊNCIAS
-
+RODRIGUES, P. G., Cleber. 4 em cada 10 brasileiros afirmam receber fake news diariamente. Disponível em: <https://www.cnnbrasil.com.br/nacional/4-em-cada-10-brasileiros-afirmam-receber-fake-news-diariamente/#:~:text=No%20Brasil%2C%20quatro%20em%20cada>.
 TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
 
 
