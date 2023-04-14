@@ -225,7 +225,7 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > esteja associado á area que deseja discutir.
 
 
-> ![Exemplo de Diagrama de Navegação](images/Flowchart.jpg)
+> ![Exemplo de Diagrama de Navegação](docs/images/Flowchart.jpg)
 
 # Conclusões
 
