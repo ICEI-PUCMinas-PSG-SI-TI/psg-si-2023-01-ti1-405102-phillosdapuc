@@ -198,42 +198,42 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 
 ## Wireframes
 > 
-> **Página Inicial**:
+**Página Inicial**:
 >
-> ![Página Inicial][docs/relatorio/images/Flowchart.jpg]
+![Página Inicial][docs/relatorio/images/Flowchart.jpg]
+
+Esta página será mostrada assim que o usuário entrar no site, oferecendo acesso às páginas
+principais e à um link de cadastro, caso este queira se tornar parte do grupo de editores do site
+
+**Página de Cadastro**
 > 
-> Esta página será mostrada assim que o usuário entrar no site, oferecendo acesso às páginas
-> principais e à um link de cadastro, caso este queira se tornar parte do grupo de editores do site
+![Página de Cadastro][docs/relatorio/images/Página-de-Cadastro.jpg]
+
+O cadastro possui campos de preenchimento para validar um nome de usuário, Nome verdadeiro,
+assim como outras informações como idade, sexo, foto (opcional) e descrição do mesmo
+
+**Página de Estudantes**
 > 
-> **Página de Cadastro**
+![Página de Estudantes][docs/relatorio/images/Página-de-Estudantes.jpg]
+
+Ao entrar nessa página, é possível visualizar e encontrar usuários através da pesquisa
+e visulizar seus dados, como nome, idade, sexo, breve descrição e confiabilidade
+
+**Página de Áreas**
 > 
-> ![Página de Cadastro][docs/relatorio/images/Página-de-Cadastro.jpg]
+![Página de Áreas][docs/relatorio/images/Página-de-Áreas.jpg]
+
+Permite a visulização da áreas de estudo, matérias pertinentes e filtros de pesquisa para
+que o usuário ache de forma mais fácil o que deseja saber
+
+**Repositório**
 > 
-> O cadastro possui campos de preenchimento para validar um nome de usuário, Nome verdadeiro,
-> assim como outras informações como idade, sexo, foto (opcional) e descrição do mesmo
-> 
-> **Página de Estudantes**
-> 
-> ![Página de Estudantes][docs/relatorio/images/Página-de-Estudantes.jpg]
-> 
-> Ao entrar nessa página, é possível visualizar e encontrar usuários através da pesquisa
-> e visulizar seus dados, como nome, idade, sexo, breve descrição e confiabilidade
-> 
-> **Página de Áreas**
-> 
-> ![Página de Áreas][docs/relatorio/images/Página-de-Áreas.jpg]
-> 
-> Permite a visulização da áreas de estudo, matérias pertinentes e filtros de pesquisa para
-> que o usuário ache de forma mais fácil o que deseja saber
-> 
-> **Repositório**
-> 
-> ![Repositório][docs/relatorio/images/Página-de-Arquivos.jpg]
-> 
-> Contém os arquivos submetidos ao site pelos usuários para sua consulta ou utilização com base
-> nos devidos critérios. Possui também a opção de inserir um arquivo, criar uma página, ou criar
-> seu próprio arquivo em um editor.
-> 
+![Repositório][docs/relatorio/images/Página-de-Arquivos.jpg]
+
+Contém os arquivos submetidos ao site pelos usuários para sua consulta ou utilização com base
+nos devidos critérios. Possui também a opção de inserir um arquivo, criar uma página, ou criar
+seu próprio arquivo em um editor.
+
  **Criação de Páginas**
 > 
 ![Criação de páginas][docs/relatorio/images/Criação-de-páginas.jpg]
@@ -242,20 +242,20 @@ Permite a edição e criação de páginas. Tais páginas serão armazenadas no 
 será possível através do usuário. Na sua criação, o usuário deve referenciar links de consulta e 
 informações que validem o que está escrito.
 
-> **Página de perfil**
+**Página de perfil**
 > 
-> ![Perfil][docs/relatorio/images/Página-de-Estudantes-2.jpg]
+![Perfil][docs/relatorio/images/Página-de-Estudantes-2.jpg]
+
+Visualiza o perfil em questão, sendo acessado a partir da página dos estudantes. Possui informações
+mais detalhadas a respeito do indivíduo e possivelmente formas de contatá-lo.
+
+**Página de texto**
 > 
-> Visualiza o perfil em questão, sendo acessado a partir da página dos estudantes. Possui informações
-> mais detalhadas a respeito do indivíduo e possivelmente formas de contatá-lo.
-> 
-> **Página de texto**
-> 
-> ![Texto][docs/relatorio/images/Página-de-Texto.jpg]
-> 
-> Seguinte ao link no repositório ou à criação de páginas, ela exibe o texto sobre o determinado assunto
-> escrito, contendo referências e título. Pode ser acompanhada por imagens e também ser dividida em tópicos
-> para melhor acessibilidade.
+![Texto][docs/relatorio/images/Página-de-Texto.jpg]
+
+Seguinte ao link no repositório ou à criação de páginas, ela exibe o texto sobre o determinado assunto
+escrito, contendo referências e título. Pode ser acompanhada por imagens e também ser dividida em tópicos
+para melhor acessibilidade.
 
 
 ## Mapa de navegação
