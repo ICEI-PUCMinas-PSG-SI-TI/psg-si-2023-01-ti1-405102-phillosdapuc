@@ -273,8 +273,8 @@ esteja associado á area que deseja discutir.
 
 O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, poderiam se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto considerando que falta ainda colocar as ideias em práticas e fazer os testes.
 
-Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais dinâmica a execução, não havendo mais uma dificuldade explicita.
-
+Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais fácil 
+a execução , não  havendo mais uma dificuldade explicita.
 # REFERÊNCIAS
 
 >TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
