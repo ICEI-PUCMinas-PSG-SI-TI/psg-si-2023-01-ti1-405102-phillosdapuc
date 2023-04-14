@@ -38,35 +38,28 @@ SISTEMAS DE INFORMAÇÃO
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
+Há muito tempo é notável o acúmulo de conhecimento que circunda na vida da população. Cada vez mais a informação se torna essencial para tomadas de decisões e para construção de novos conhecimentos. O avanço tecnológico trouxe consigo a revolução da internet e com ela surgiu uma problemática relacionada ao excesso de informações não confiáveis, em que qualquer pessoa está apita a publicar qualquer matéria na Web, sem ser necessariamente fidedigna. Com isso, existe a imensa disponibilidade de conteúdo online que faz com que haja necessidade de capacidade crítica para identificar potenciais fontes confiáveis de informação para que suas necessidades sejam atendidas, pois é difícil identificar fontes confiáveis de conteúdo.
+	
+Diante disso, observamos que a população, principalmente, os estudantes universitários estão cada vez mais sem tempo no seu dia a dia para acessar diversas páginas para tentar localizar os conteúdos que estão com questionamento, não havendo na maioria das vezes oportunidade para checar se cada assunto achado procede. Sendo assim, acaba existindo uma escassez sobre conteúdos verídicos, e dificuldade nas buscas por informações.
+
+ Perante isso, torna-se fundamental haver um site que englobe esses diversos fatores e busque sanar essas limitações, criando um espaço onde haja confiança, imparcialidade e facilidade para ajudar os alunos a terem acesso rápido aos conteúdos que tenham dúvidas, e, com isso, consigam debater sobre, achando assim uma resposta confiável e um portal de fácil acesso. 
 
 ## Problema
-
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos. Utilize como base a ficha inicial de detalhamento do problema.
->
+Em vista do que foi exposto anteriormente, o problema que precisa ser sanado com este projeto é a necessidade de haver um canal que utilize métodos mais rápidos na busca de conhecimento, trazendo consigo um site que tenha variedade de utilidades e que os alunos consigam se ajuda.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ O objetivo geral desse trabalho é auxiliar os estudantes com suas pesquisas e trabalhos acadêmicos. A ideia é a criação de um site que apresente uma facilidade de manuseamento, trazendo assim, conhecimento de uma forma rápida, havendo um espaço para interações sociais de modo a trazer debates, visando uma troca de conhecimento ampla entre os alunos. 
+Como objetivos específicos, podemos ressaltar: 
+• Fornecer um espaço de interações, onde os consumidores conseguiriam debater a respeito de diversos tópicos de determinadas áreas, inclusive, tendo a participações de pessoas competentes para responder.
+ • Haveria um local onde teria um filtro de setor, facilitando o acesso ao curso que deseja.
+ • Os usuários poderiam criar tópicos e subtópicos a respeito de cada matéria ou disciplina que quiserem. 
 
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também pelo menos 2 objetivos
-> específicos dependendo de onde você vai querer concentrar ou aprofundar
-> as características do trabalho.
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
-
-......  TEXTO  ......
+Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”. 
+ 
+Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
 
 > Dados do projeto e pesquisa
 > Pesquisa para o desenvolvimento
@@ -74,22 +67,10 @@ SISTEMAS DE INFORMAÇÃO
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  Apesar de todos os estudantes poderem utilizar o site, o enfoque seria para os acadêmicos da Pontifica Universidade Católica de Minas Gerais, mais especificadamente os alunos da unidade de São Gabriel, com ênfase nos cursos de Tecnologia da Informação, tendo em vista, que o projeto foi arquitetado visando esse público, vendo a necessidade deles. 
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Desse modo, vemos que o público alvo seria homens e mulheres, de 17 a 60 anos, casados ou solteiros, que buscam por facilidade na hora de procurar as dúvidas referentes às matérias do curso, visando menos tempo de procura e uma troca variada de conhecimento entre alunos.
+
  
 # Especificações do Projeto
 
@@ -98,7 +79,6 @@ foi consolidada com a participação dos usuários em um trabalho feito pelos
 membros da equipe a partir da observação dos usuários em seu local natural e por meio de
 entrevistas. Os detalhes levantados nesse processo foram consolidados na forma de
 personas e histórias de usuários.
-
 
 ## Personas
 
@@ -230,7 +210,7 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > 
 > **Exemplo**:
 > 
-> ![P1](images/Página_Inicial.jpg)
+> ![Exemplo de Link para Wireframe](images/Página-Inicial.png)
 
 
 ## Mapa de navegação
