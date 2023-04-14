@@ -118,11 +118,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-|Eduardo Pereira     | Dividir conhecimento                 | Ajudar pessoas a crescer               |
+|Eduardo Pereira     | Dividir conhecimento               | Ajudar pessoas a crescer   |
 |Eduardo Pereira     | Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
 |Eduardo Pereira     | Compartilhar o que as áreas que eu atuo realmente fazem | Pessoas interessadas não terem que perguntar toda hora |
 |Eduardo Pereira     | Fazer uma pesquisa sobre um tema especifico | Obejetividade em leituras |
-|EDuardo Pereira     | Avaliar se as informações são verdadeiras | Para os usários não adquirirem informaçoes falsas |
+|Eduardo Pereira     | Avaliar se as informações são verdadeiras | Para os usários não adquirirem informaçoes falsas |
 |Vinicuis Oliveira   | Trocar conhecimentos                | Despender tempo com aprendizado |
 |Vinicius Oliveira   | Aprender sobre assuntos da minha própria área| Melhorar minhas notas |
 |Vinicius Oliveira   | Apresentar minhas duvidas | ter um melhor entendimento |
@@ -147,21 +147,24 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário se cadastre no seu curso e nas materias que está em sua carga horaria | ALTA | 
-|RF-002| O site deve permitir ao usuário visualizar quem gostaria de trocar cohecimento da área desejada | MÉDIA |
-|RF-003| O site deve permitir ao usuário visualizar os cursos e materias | ALTA |
+|RF-001| O site deve apresentar na página principal as últimas informaçoes da materia/curso marcadas com interesse | ALTA |
+|RF-002| O site deve permitir ao usuário cadastrar seu curso e matérias que estuda | ALTA |
+|RF-003| O site deve permitir ao usuário visualizar os cursos e matérias e escolher quais tem interesse | ALTA |
 |RF-004| O site deve permitir ao usuário vizualizar a fonte para confiablidade da/das informações | ALTA |
 |RF-005| O site deve filtro/pesquisa para permitir ao usuário localizar um tema específico que será informado na caixa de pesquisa. | ALTA |
-|RF-006| O site deve apresentar na tela de materias/cursos quem está interessado nela | ALTA |
+|RF-006| O site deve apresentar nas partes de materias/cursos quem está interessado em qual | MÉDIA |
 |RF-007| O site deve permiter que professores e coordenadores possam avaliar se as informaçoes trocadas entre usuários é verdadeira | ALTA |
-|RF-008| O site deve 
-|RF-009| O site deve 
-|RF-010| O site deve 
-|RF-011| O site deve 
-|RF-012| O site deve 
-|RF-013| O site deve 
-|RF-014| O site deve 
-|RF-015| O site deve 
+|RF-008| O site deve permitir o usuário poder comentar suas dúvidas | ALTA |
+|RF-009| O site deve apresentar apresentar atalhos na tela para vizualizar as informações mais rapidamente | MÉDIA|
+|RF-010| O site deve permitir visualizar as informações de contatos do mantenedor do site | MÉDIA |
+|RF-011| O site deve permitir o compartilhamento de informações visualizadas em plataformas de redes sociais | BAIXA |
+|RF-012| O site deve apresentar um cadastro de turma | ALTA |
+|RF-013| O site deve permitir salvar as informações que o usuario desejar | BAIXA |
+|RF-014| O site deve permitir verificar as notícias salvas como preferidas | BAIXA |
+|RF-015| O site deve o/os administradores alterarem permissões, materias e cursos | ALTA |
+|RF-016| O site deve apresentar um tipo de SAC para futuras melhoras do site | MÉDIA |
+|RF-017| O site deve permitir professores/coordenadores editar informações divulgada entre os alunos | MÉDIA |
+|RF-018| O site deve apresentar uma página de conversas particulares entre todos os tipos de usuários | ALTA |
 
 ### Requisitos Não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
@@ -171,11 +174,10 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF-001| O site deverá ser responsivo permitindo a visualização em celulares de forma adequada | ALTA |
 |RNF-002| O site deve ser publicado em um ambiente acessível Publicamente na Internet (Repl.it, GitHub Pages...)| ALTA |
 |RNF-003| O site deve ter bom nível de contraste entre os elementos datela em conformidade | MÉDIA |
-|RFN-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA |
-|RFN-005| O site deve funcionar em tempo real para todos os usuários | ALTA |
-|RFN-006| O site deve ser protegido e seguro contra acesso não autorizado | ALTA |
-|RFN-007| O site deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.  | ALTA |
-
+|RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA |
+|RNF-005| O site deve funcionar em tempo real para todos os usuários | ALTA |
+|RNF-006| O site deve ser protegido e seguro contra acesso não autorizado | ALTA |
+|RNF-007| O site deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.  | ALTA |
 
 ### Restrições
 As questões que limitam a execução desse projeto e que se configuram como obrigações
@@ -184,8 +186,8 @@ claras para o desenvolvimento do projeto em questão são apresentadas na tabela
 |ID    | Descrição do Requisito  |
 |------|-----------------------------------------|
 |RE-001| O projeto deverá ser entregue no final do semestre letivo, não podendo extrapolar a data de 07/07/2020.|
-|RE-02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend|
-|RE-03| A equipe não pode subcontratar o desenvolvimento do trabalho.|
+|RE-002| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend|
+|RE-003| A equipe não pode subcontratar o desenvolvimento do trabalho.|
 
 
 
