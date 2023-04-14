@@ -234,14 +234,14 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > nos devidos critérios. Possui também a opção de inserir um arquivo, criar uma página, ou criar
 > seu próprio arquivo em um editor.
 > 
-> **Criação de Páginas**
+ **Criação de Páginas**
 > 
-> ![Criação de páginas][docs/relatorio/images/Criação-de-Páginas.jpg]
-> 
-> Permite a edição e criação de páginas. Tais páginas serão armazenadas no repositório, e sua edição
-> será possível através do usuário. Na sua criação, o usuário deve referenciar links de consulta e 
-> informações que validem o que está escrito.
-> 
+![Criação de páginas][docs/relatorio/images/Criação-de-páginas.jpg]
+
+Permite a edição e criação de páginas. Tais páginas serão armazenadas no repositório, e sua edição
+será possível através do usuário. Na sua criação, o usuário deve referenciar links de consulta e 
+informações que validem o que está escrito.
+
 > **Página de perfil**
 > 
 > ![Perfil][docs/relatorio/images/Página-de-Estudantes-2.jpg]
@@ -271,7 +271,7 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 
 # Conclusões
 
-O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, podendo se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto considerando que falta ainda colocar as ideias em práticas e fazer os testes.
+O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, poderiam se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto considerando que falta ainda colocar as ideias em práticas e fazer os testes.
 
 Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais dinâmica a execução, não havendo mais uma dificuldade explicita.
 
