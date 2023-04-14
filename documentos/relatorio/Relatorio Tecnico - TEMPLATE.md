@@ -271,11 +271,9 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 
 # Conclusões
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, podendo se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto considerando que falta ainda colocar as ideias em práticas e fazer os testes.
 
-> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
-> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
-> as principais dificuldes encontradas e como foi possível contorná-las. 
+Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais dinâmica a execução, não havendo mais uma dificuldade explicita.
 
 # REFERÊNCIAS
 
