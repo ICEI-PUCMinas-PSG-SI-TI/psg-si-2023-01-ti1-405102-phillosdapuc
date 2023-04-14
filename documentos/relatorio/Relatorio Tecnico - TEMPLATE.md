@@ -60,11 +60,13 @@ Como objetivos específicos, podemos ressaltar:
 
 
 ## Justificativa
-
 Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”. 
  
-Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. A maior dificuldade nessa busca de conhecimento são as noticias falsas que circulam na internet, perante isso, vemos que no Brasil, quatro em cada 10 pessoas afirmam receber notícias falsas todos os dias. O número é ainda maior entre os brasileiros que se preocupam em cair em noticias infundadas ou que seus parentes caiam. Nesse cenário, o índice sobe para 65%. Os dados fazem parte de um levantamento feito pela Poynter Institute, escola de jornalismo e organização de pesquisas americana, e conta com apoio do Google.
-Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
+Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
+
+> Dados do projeto e pesquisa
+> Pesquisa para o desenvolvimento
+
 
 ## Público-Alvo
 
@@ -209,9 +211,25 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
 > - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
 > 
-> **Exemplo**:
+> **Página Inicial**:
+>
+> ![Oágina Inicial][docs/relatorio/images/Flowchart.jpg]
+> Esta página será mostrada assim que o usuário entrar no site, oferecendo acesso às páginas
+> principais e à um link de cadastro, caso este queira se tornar parte do grupo de editores do site
 > 
-> ![Exemplo de Link para Wireframe](docs/relatorio/images/Flowchart.jpg)
+> **Página de Cadastro**
+> 
+> ![Página de Cadastro][docs/relatorio/images/Página-de-Cadastro.jpg]
+> O cadastro possui campos de preenchimento para validar um nome de usuário, Nome verdadeiro,
+> assim como outras informações como idade, sexo, foto (opcional) e descrição do mesmo
+> 
+> **Página de Estudantes**
+> 
+> ![Página de Estudantes][docs/relatorio/images/Página-de-Estudantes.jpg]
+> Ao entrar nessa página, é possível visualizar e encontrar usuários através da pesquisa
+> e visulizar seus dados, como nome, idade, sexo, breve descrição e confiabilidade
+> 
+> **Página de Áreas**
 
 
 ## Mapa de navegação
@@ -223,15 +241,15 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > esteja associado á area que deseja discutir.
 
 
-> ![Exemplo de Diagrama de Navegação](images/Flowchart.jpg)
+> ![Exemplo de Diagrama de Navegação][docs/relatorio/images/Flowchart.jpg]
 
-# Conclusão
+# Conclusões
 
-O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, podendo se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto em consideração que falta ainda colocar as ideias em práticas e fazer os testes.
+......  COLOQUE AQUI O SEU TEXTO ......
 
-Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais dinâmica a execução, não havendo mais uma dificuldade explicita.
-
-
+> Finalize escrevendo um ou dois parágrafos para relembrar o objetivo do projeto, 
+> o que foi possível alcançar e o que ficou para um trabalho futuro, e relembrando
+> as principais dificuldes encontradas e como foi possível contorná-las. 
 
 # REFERÊNCIAS
 
