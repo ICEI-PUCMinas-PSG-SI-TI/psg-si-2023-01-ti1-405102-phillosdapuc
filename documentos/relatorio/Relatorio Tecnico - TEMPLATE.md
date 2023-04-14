@@ -54,10 +54,11 @@ Em vista do que foi exposto anteriormente, o problema que precisa ser sanado com
 Como objetivos específicos, podemos ressaltar: 
 
 • Fornecer um espaço de interações, onde os consumidores conseguiriam debater a respeito de diversos tópicos de determinadas áreas, inclusive, tendo a participações de pessoas competentes para responder.
- • Haveria um local onde teria um filtro de setor, facilitando o acesso ao curso que deseja.
- • Os usuários poderiam criar tópicos e subtópicos a respeito de cada matéria ou disciplina que quiserem. 
 
+• Haveria um local onde teria um filtro de setor, facilitando o acesso ao curso que deseja.
 
+ • Os usuários poderiam criar diversos tópicos  tópicos e subtópicos a respeito de cada matéria ou disciplina que quiserem. 
+ 
 ## Justificativa
 
 Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”.
