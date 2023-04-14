@@ -230,7 +230,7 @@ Gerenciamento do Projeto             | Trello       | https://trello.com/invite/
 > 
 > **Exemplo**:
 > 
-> ![P1](images/Página Inicial.jpg)
+> ![P1](images/Página_Inicial.jpg)
 
 
 ## Mapa de navegação
