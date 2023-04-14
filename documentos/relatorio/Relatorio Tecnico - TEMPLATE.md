@@ -49,13 +49,12 @@ Em vista do que foi exposto anteriormente, o problema que precisa ser sanado com
 
 ## Objetivos
 
- O objetivo geral desse trabalho é auxiliar os estudantes com suas pesquisas e trabalhos acadêmicos. A ideia é a criação de um site que apresente uma facilidade de manuseamento, trazendo assim, conhecimento de uma forma rápida, havendo um espaço para interações sociais de modo a trazer debates, visando uma troca de conhecimento ampla entre os alunos. 
+ O objetivo geral desse trabalho é auxiliar os estudantes com suas pesquisas e trabalhos acadêmicos. A ideia é a criação de um site que apresente uma facilidade de manuseamento, trazendo assim, conhecimento de uma forma rápida, havendo um espaço para  debater, visando uma troca de conhecimento ampla entre os alunos.
+ 
 Como objetivos específicos, podemos ressaltar: 
 
 • Fornecer um espaço de interações, onde os consumidores conseguiriam debater a respeito de diversos tópicos de determinadas áreas, inclusive, tendo a participações de pessoas competentes para responder.
-
  • Haveria um local onde teria um filtro de setor, facilitando o acesso ao curso que deseja.
-
  • Os usuários poderiam criar tópicos e subtópicos a respeito de cada matéria ou disciplina que quiserem. 
 
 
