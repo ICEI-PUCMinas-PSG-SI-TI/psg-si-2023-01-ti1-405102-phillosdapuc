@@ -60,13 +60,11 @@ Como objetivos específicos, podemos ressaltar:
 
 
 ## Justificativa
+
 Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”. 
  
-Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
-
-> Dados do projeto e pesquisa
-> Pesquisa para o desenvolvimento
-
+Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. A maior dificuldade nessa busca de conhecimento são as noticias falsas que circulam na internet, perante isso, vemos que no Brasil, quatro em cada 10 pessoas afirmam receber notícias falsas todos os dias. O número é ainda maior entre os brasileiros que se preocupam em cair em noticias infundadas ou que seus parentes caiam. Nesse cenário, o índice sobe para 65%. Os dados fazem parte de um levantamento feito pela Poynter Institute, escola de jornalismo e organização de pesquisas americana, e conta com apoio do Google.
+Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informações entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
 
 ## Público-Alvo
 
