@@ -277,6 +277,10 @@ Ademais, foi difícil encontrar um problema que fosse possível solucionar de um
 
 # REFERÊNCIAS
 
-TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
+>TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
+>
+>44% dos brasileiros dizem receber fake news diariamente; veja pesquisa. Disponível em: <https://www.techtudo.com.br/noticias/2022/08/44percent-dos-brasileiros->dizem-receber-fake-news-diariamente-veja-pesquisa.ghtml>.
+>
+>RODRIGUES, P. G., Cleber. 4 em cada 10 brasileiros afirmam receber fake news diariamente. Disponível em: <https://www.cnnbrasil.com.br/nacional/4-em-cada-10->brasileiros-afirmam-receber-fake-news-diariamente/#:~:text=No%20Brasil%2C%20quatro%20em%20cada>.
 
 
