@@ -260,14 +260,14 @@ para melhor acessibilidade.
 
 ## Mapa de navegação
 
-> O diagram apresenta a experiência do usuário começando a partir da página inicial, na qual
-> ele poderá acessar as páginas dos estudantes, o repositório, a categorização das áreas ou,
-> se desejar, fazer um cadastro para criar e modificar páginas. As páginas seguem um critério de
-> autentificação, no qual são necessários fontes, professores vigentes e também que o autor
-> esteja associado á area que deseja discutir.
+O diagram apresenta a experiência do usuário começando a partir da página inicial, na qual
+ele poderá acessar as páginas dos estudantes, o repositório, a categorização das áreas ou,
+se desejar, fazer um cadastro para criar e modificar páginas. As páginas seguem um critério de
+autentificação, no qual são necessários fontes, professores vigentes e também que o autor
+esteja associado á area que deseja discutir.
 
 
-> ![Exemplo de Diagrama de Navegação][docs/relatorio/images/Flowchart.jpg]
+![Exemplo de Diagrama de Navegação][docs/relatorio/images/Flowchart.jpg]
 
 # Conclusões
 
