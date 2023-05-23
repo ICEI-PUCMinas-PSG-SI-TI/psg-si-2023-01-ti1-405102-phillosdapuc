@@ -90,9 +90,9 @@ As personas analisadas durante o processo de entendimento do poblema seguem as f
 
 >**Personas**
 
->![p1](images/person1.png)
->![p2](images/person2.png)
->![p3](images/person3.png)
+![p1](../../docs/relatorio/images/person1.png)
+![p1](../../docs/relatorio/images/person2.png)
+![p1](../../docs/relatorio/images/person3.png)
 
  
 
@@ -208,28 +208,29 @@ principais e à um link de cadastro, caso este queira se tornar parte do grupo d
 
 **Página de Cadastro**
 > 
-![Página de Cadastro][docs/relatorio/images/Página-de-Cadastro.jpg]
+![Página de Cadastro](docs/relatorio/images/Página-de-Cadastro.jpg)
+
 
 O cadastro possui campos de preenchimento para validar um nome de usuário, Nome verdadeiro,
 assim como outras informações como idade, sexo, foto (opcional) e descrição do mesmo
 
 **Página de Estudantes**
 > 
-![Página de Estudantes][docs/relatorio/images/Página-de-Estudantes.jpg]
+![Página de Estudantes](docs/relatorio/images/Página-de-Estudantes.jpg)
 
 Ao entrar nessa página, é possível visualizar e encontrar usuários através da pesquisa
 e visulizar seus dados, como nome, idade, sexo, breve descrição e confiabilidade
 
 **Página de Áreas**
 > 
-![Página de Áreas][docs/relatorio/images/Página-de-Áreas.jpg]
+![Página de Áreas](docs/relatorio/images/Página-de-Áreas.jpg)
 
 Permite a visulização da áreas de estudo, matérias pertinentes e filtros de pesquisa para
 que o usuário ache de forma mais fácil o que deseja saber
 
 **Repositório**
 > 
-![Repositório][docs/relatorio/images/Página-de-Arquivos.jpg]
+![Repositório](docs/relatorio/images/Página-de-Arquivos.jpg)
 
 Contém os arquivos submetidos ao site pelos usuários para sua consulta ou utilização com base
 nos devidos critérios. Possui também a opção de inserir um arquivo, criar uma página, ou criar
@@ -237,7 +238,7 @@ seu próprio arquivo em um editor.
 
  **Criação de Páginas**
 > 
-![Criação de páginas][docs/relatorio/images/Criação-de-páginas.jpg]
+![Criação de páginas](docs/relatorio/images/Criação-de-páginas.jpg)
 
 Permite a edição e criação de páginas. Tais páginas serão armazenadas no repositório, e sua edição
 será possível através do usuário. Na sua criação, o usuário deve referenciar links de consulta e 
