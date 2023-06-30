@@ -38,44 +38,46 @@ SISTEMAS DE INFORMAÇÃO
 - [Conclusões](#avaliação-da-aplicação)
   
 # Introdução
-Há muito tempo é notável o acúmulo de conhecimento que circunda na vida da população. Cada vez mais a informação se torna essencial para tomadas de decisões e para construção de novos conhecimentos. O avanço tecnológico trouxe consigo a revolução da internet e com ela surgiu uma problemática relacionada ao excesso de informações não  verdicas, em que qualquer pessoa está apita a publicar qualquer matéria na Web, sem ser necessariamente fidedigna. Com isso, há uma disponibilidade  imensa de conteúdos  online que faz com que haja necessidade de capacidade crítica para identificar potenciais fontes confiáveis de informação para que suas necessidades sejam atendidas de uma forma com que o conteúdo introduzido não seja infundado. 
+Há muito tempo é notável o acúmulo de conhecimento que circunda a vida da população. Cada vez mais a informação se torna essencial para tomadas de decisões e para construção de novos conhecimentos. O avanço tecnológico trouxe consigo a revolução da internet e com ela surgiram novas formas de se passar informação e conhecimento, sempre trazendo novidades que facilitam a vida das pessoas. Em um ambiente acadêmico dinâmico como uma faculdade, a troca de conhecimentos desempenha um papel fundamental no crescimento intelectual e na formação dos estudantes. É através dessa interação que ideias são compartilhadas, conceitos são aprimorados e novas perspectivas são adquiridas.
 
-Diante disso, observamos que a população, principalmente, os estudantes universitários estão cada vez mais sem tempo no seu dia a dia para acessar diversas páginas para tentar localizar os conteúdos que estão com questionamento, não havendo na maioria das vezes oportunidade para checar se cada assunto achado procede. Sendo assim, acaba existindo uma escassez sobre conteúdos verídicos, e dificuldade nas buscas por informações.
+Perante a isso, a pouca interação e colaboração entre os estudantes de diferentes cursos ou semestres, dificulta a troca de conhecimentos dentro da faculdade. Muitas vezes, os alunos ficam restritos aos colegas de suas próprias turmas ou áreas de estudo, perdendo a oportunidade de explorar diferentes perspectivas e conhecimentos complementares.
 
- Perante isso, torna-se fundamental haver um site que englobe esses diversos fatores e busque sanar essas limitações, criando um espaço onde haja confiança, imparcialidade e facilidade para ajudar os alunos a terem acesso rápido aos conteúdos que tenham dúvidas, e, com isso, consigam debater sobre, achando assim uma resposta confiável e um portal de fácil acesso. 
+Diante disso, é muito importante a criação de uma ferramenta que facilite esse processo de troca de conhecimentos, proporcionando benefícios significativos para os estudantes e o ambiente acadêmico como um todo.
 
 ## Problema
-Em vista do que foi exposto anteriormente, o problema que precisa ser sanado com este projeto é a necessidade de haver um canal que utilize métodos mais rápidos na busca de conhecimento, trazendo consigo um site que tenha variedade de utilidades e que os alunos consigam se ajuda.
+A falta de interação e colaboração entre os estudantes, traz dificuldades quando necessitam da troca de conhecimentos. O fato de ficarem restritos aos colegas de suas próprias turmas também os prejudicam, perdendo a oportunidade de explorar diferentes perspectivas e conhecimentos complementares. Outro problema, é a dificuldade de acesso a materiais e recursos acadêmicos diversificados. Nem sempre os estudantes têm fácil acesso a uma variedade de materiais didáticos, artigos científicos, livros ou outras fontes de conhecimento relevantes para seus estudos.
 
 ## Objetivos
+O objetivo geral deste trabalho é auxiliar os estudantes com suas pesquisas e trabalhos acadêmicos. A ideia é a criação de um site que demonstra uma facilidade de manuseamento, trazendo assim, conhecimento de uma forma rápida, havendo um espaço para interações sociais de modo a trazer debates, visando uma troca de conhecimento ampla entre os alunos.
 
-  O objetivo geral desse trabalho é auxiliar os estudantes com suas pesquisas e trabalhos acadêmicos. A ideia é a criação de um site que demonstre uma facilidade de manuseamento, trazendo assim, conhecimento de uma forma rápida, havendo um espaço para interações sociais de modo a trazer debates, visando uma troca de conhecimento ampla entre os alunos.
-  
-Como objetivos específicos, podemos ressaltar: 
+Facilitar a interação e colaboração entre os estudantes: O projeto busca promover a interação entre os estudantes de diferentes cursos, semestres e áreas de estudo, criando um ambiente propício para a troca de conhecimentos, ideias e experiências. Isso contribui para o desenvolvimento de uma cultura de colaboração e aprendizado coletivo.
 
-• Fornecer um espaço de interações, onde os consumidores conseguiriam debater a respeito de diversos tópicos de determinadas áreas, inclusive, tendo a participações de pessoas competentes para responder.
+Promover a criatividade, inovação e pensamento crítico: O projeto tem como objetivo estimular a criatividade e a inovação entre os estudantes, ao expô-los a diferentes perspectivas, abordagens e soluções. Através da troca de conhecimentos, os participantes são encorajados a pensar de maneira mais ampla, desafiadora e crítica, fomentando o desenvolvimento de habilidades essenciais para o mundo acadêmico e profissional.
+
+Facilitar o networking e a formação de parcerias: O projeto busca criar oportunidades para que os estudantes ampliem suas redes de contatos e estabeleçam parcerias com colegas de outros cursos, semestres e até mesmo instituições. Essas conexões podem levar a colaborações futuras, projetos conjuntos e oportunidades profissionais, fortalecendo a formação acadêmica e contribuindo para o desenvolvimento de uma rede de relacionamentos sólida.
+
+Como objetivos específicos, podemos ressaltar:
+
+• Fornecer um espaço de interações, onde os consumidores conseguem debater a respeito de diversos tópicos de determinadas áreas.
 
 • Haveria um local onde teria um filtro de setor, facilitando o acesso ao curso que deseja.
 
- • Os usuários poderiam criar diversos tópicos  tópicos e subtópicos a respeito de cada matéria ou disciplina que quiserem. 
- 
-## Justificativa
+• Os usuários poderiam criar diversos tópicos e subtópicos a respeito de cada matéria ou disciplina que quiserem.
 
+## Justificativa
 Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”.
 
-Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois, é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. A maior dificuldade nessa busca de conhecimento são as notícias falsas que circulam na internet, perante isso, observamos um levantamento da Poynter Institute escola de jornalismo e organização de pesquisas americana, que conta com apoio do Google, vemos que no Brasil, quatro em cada 10 pessoas afirmam receber notícias falsas todos os dias. O número é ainda maior entre os brasileiros que se preocupam em cair em notícias infundadas.
+Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, pois é acessível para a maioria das pessoas. Aprendemos muito visualmente, observando ações e lendo. Além do mais, não somos apenas espectadores, mas também fundadores de um conhecimento que compartilhamos com outros indivíduos. 
 
-Segundo países analisados, Estados Unidos, Alemanha, Nigéria, Índia e Japão, os países combinados, 62% dos  que foram entrevistado  afirmaram receber informações falsas toda semana, enquanto 40% expressaram preocupação com os efeitos dos conteúdos enganosos.
-
-Tendo em vista isso, falta um site que englobe os alunos da unidade de São Gabriel, onde poderiam se comunicar e se ajudar de uma forma ampla, constituindo um acréscimo de conhecimento em busca de informações verdadeiras e de fácil acesso, em um portal que traria essas diversas funcionalidades, como comunicação, áreas das disciplinas e troca de informação entre os alunos, auxiliando inclusive a introdução dos calouros que estão com dificuldade de adaptação com as matérias.
+Tendo em vista isso, a implementação de uma ferramenta que facilite a troca de conhecimentos dentro da faculdade é justificada pelos benefícios que proporciona aos estudantes, tais como a aprendizagem colaborativa, o acesso a uma rede ampla de conhecimento, a complementação dos conteúdos acadêmicos, o estímulo à criatividade e inovação, além das oportunidades de networking e parcerias. Essa ferramenta contribui para uma formação acadêmica mais enriquecedora, abrangente e alinhada com as demandas do mundo contemporâneo.
 
 ## Público-Alvo
+Apesar de todos os estudantes poderem utilizar o site, o enfoque seria para os acadêmicos da Pontifícia Universidade Católica de Minas Gerais, mais especificamente os alunos da unidade de São Gabriel, com ênfase nos cursos de Tecnologia da Informação, incluindo alunos de diferentes períodos, abrangendo tanto graduação quanto pós-graduação, tendo em vista, que INICIALMENTE o projeto foi arquitetado visando esse público, vendo a necessidade deles.
 
-  Apesar de todos os estudantes poderem utilizar o site, o enfoque seria para os acadêmicos da Pontifica Universidade Católica de Minas Gerais, mais especificadamente os alunos da unidade de São Gabriel, com ênfase nos cursos de Tecnologia da Informação, tendo em vista, que o projeto foi arquitetado visando esse público, vendo a necessidade deles. 
+Além dos estudantes, o projeto também pode envolver a participação de professores e profissionais da instituição, que podem contribuir com orientações, esclarecimentos e supervisão das atividades.
 
-Desse modo, vemos que o público alvo seria homens e mulheres, de 17 a 60 anos, casados ou solteiros, que buscam por facilidade na hora de procurar as dúvidas referentes às matérias do curso, visando menos tempo de procura e uma troca variada de conhecimento entre alunos.
+Desse modo, vemos que o público alvo seriam homens e mulheres, de 17 a 60 anos, casados ou solteiros, que buscam por facilidade na hora de procurar as dúvidas referentes às matérias do curso, visando menos tempo de procura e uma troca variada de conhecimento entre alunos.
 
- 
 # Especificações do Projeto
 
  A definição exata do problema e os pontos mais relevantes a serem tratados neste projeto
