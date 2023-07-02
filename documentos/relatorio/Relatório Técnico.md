@@ -296,11 +296,14 @@ a execução , não  havendo mais uma dificuldade explicita.
 
 >TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
 >
->Johnson, D.W., & Johnson, R.T. (1989). Cooperation and competition: Theory and research.>.
+>Johnson, D.W., & Johnson, R.T. (1989). Cooperation and competition: Theory and research.
 >
->Granovetter, M.S. (1973). The strength of weak ties.>.
->Page, S.E. (2007). The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies.>
->Prince, M. (2004). Does Active Learning Work? A Review of the Research.>
+>Granovetter, M.S. (1973). The strength of weak ties.
+>
+>Page, S.E. (2007). The Difference: How the Power of Diversity Creates Better Groups, Firms, Schools, and Societies.
+>
+>Prince, M. (2004). Does Active Learning Work? A Review of the Research.
+>
 >Educause Learning Initiative. (2019). Horizon Report: Higher Education Edition.>
 
 
