@@ -286,6 +286,8 @@ Uma ferramenta que facilita a troca de conhecimentos dentro da faculdade desempe
 
 >TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
 >
+>Social learning: estimule a troca de conhecimento, MicroPower. (2015) acessos em: https://micropowerglobal.com/social-learning-estimule-a-troca-de-conhecimento/
+>
 >Johnson, D.W., & Johnson, R.T. (1989). Cooperation and competition: Theory and research.
 >
 >Granovetter, M.S. (1973). The strength of weak ties.
