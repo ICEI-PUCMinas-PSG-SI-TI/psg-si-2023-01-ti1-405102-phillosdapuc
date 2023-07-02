@@ -59,10 +59,7 @@ Facilitar o networking e a formação de parcerias: O projeto busca criar oportu
 Como objetivos específicos, podemos ressaltar:
 
 • Fornecer um espaço de interações, onde os consumidores conseguem debater a respeito de diversos tópicos de determinadas áreas.
-
-• Haveria um local onde teria um filtro de setor, facilitando o acesso ao curso que deseja.
-
-• Os usuários poderiam criar diversos tópicos e subtópicos a respeito de cada matéria ou disciplina que quiserem.
+• Os usuários podem colocar suas dúvidas e esperar a resposta dos questionamento de outros usuários.
 
 ## Justificativa
 Conforme o psicólogo canadense Albert Bandura explica na obra Social Learning Theory (1977), “pela observação dos outros, uma pessoa forma uma ideia de como novos comportamentos são executados e, em ocasiões posteriores, essa informação codificada serve como um guia para a ação”.
@@ -72,9 +69,9 @@ Na sociedade contemporânea, a internet facilita muito a troca de conhecimento, 
 Tendo em vista isso, a implementação de uma ferramenta que facilite a troca de conhecimentos dentro da faculdade é justificada pelos benefícios que proporciona aos estudantes, tais como a aprendizagem colaborativa, o acesso a uma rede ampla de conhecimento, a complementação dos conteúdos acadêmicos, o estímulo à criatividade e inovação, além das oportunidades de networking e parcerias. Essa ferramenta contribui para uma formação acadêmica mais enriquecedora, abrangente e alinhada com as demandas do mundo contemporâneo.
 
 ## Público-Alvo
-Apesar de todos os estudantes poderem utilizar o site, o enfoque seria para os acadêmicos da Pontifícia Universidade Católica de Minas Gerais, mais especificamente os alunos da unidade de São Gabriel, com ênfase nos cursos de Tecnologia da Informação, incluindo alunos de diferentes períodos, abrangendo tanto graduação quanto pós-graduação, tendo em vista, que INICIALMENTE o projeto foi arquitetado visando esse público, vendo a necessidade deles.
+Apesar de todos os estudantes poderem utilizar o site, o enfoque seria para os acadêmicos da Pontifícia Universidade Católica de Minas Gerais, mais especificamente os alunos da unidade de São Gabriel, com ênfase nos cursos de Tecnologia da Informação, incluindo alunos de diferentes períodos, abrangendo tanto graduação quanto pós-graduação, tendo em vista, que incicialmente o projeto foi arquitetado visando esse público, vendo a necessidade deles.
 
-Além dos estudantes, o projeto também pode envolver a participação de professores e profissionais da instituição, que podem contribuir com orientações, esclarecimentos e supervisão das atividades.
+Além dos estudantes, o projeto também pode envolver a participação de professores e profissionais da instituição, que podem contribuir com orientaçõe e esclarecimento.
 
 Desse modo, vemos que o público alvo seriam homens e mulheres, de 17 a 60 anos, casados ou solteiros, que buscam por facilidade na hora de procurar as dúvidas referentes às matérias do curso, visando menos tempo de procura e uma troca variada de conhecimento entre alunos.
 
@@ -179,7 +176,7 @@ Metodologia: Comunidade de Conhecimento em TI
 
 1) Identificação de necessidades e interesses: Inicialmente, será realizada uma pesquisa com os estudantes de cursos de TI para identificar suas necessidades, interesses e expectativas em relação à troca de conhecimentos. Isso ajudará a entender quais tópicos são mais relevantes, quais habilidades desejam desenvolver e quais recursos procuram.
 
-2) Criação da plataforma online: Com base nas informações coletadas, será desenvolvida uma plataforma online dedicada à comunidade de conhecimento em TI. A plataforma fornecerá recursos para compartilhamento de conteúdo, fóruns de discussão, grupos temáticos e outras funcionalidades que promovam a interação e a troca de conhecimentos entre os estudantes.
+2) Criação da plataforma online: Com base nas informações coletadas, será desenvolvida uma plataforma online dedicada à comunidade de conhecimento em TI. A plataforma fornecerá recursos para compartilhamento de conteúdo, fóruns para colocar as dúvidas, e irá que promover a interação e a troca de conhecimentos entre os estudantes.
 
 3) Categorização e organização do conteúdo: O conteúdo compartilhado pelos estudantes será categorizado e organizado de maneira clara e acessível. Isso facilitará a busca por materiais específicos, permitindo que os participantes encontrem rapidamente recursos relevantes para seus interesses e necessidades de aprendizado.
 
@@ -264,34 +261,29 @@ informações que validem o que está escrito.
 ![Perfil](../../docs/relatorio/images/Página%20Estudante%202.jpg)
 
 Visualiza o perfil em questão, sendo acessado a partir da página dos estudantes. Possui informações
-mais detalhadas a respeito do indivíduo e possivelmente formas de contatá-lo.
+mais detalhadas a respeito do usuário.
 
 **Página de texto**
 > 
 ![Texto](../../docs/relatorio/images/Página%20de%20texto.jpg)
 
 Seguinte ao link no repositório ou à criação de páginas, ela exibe o texto sobre o determinado assunto
-escrito, contendo referências e título. Pode ser acompanhada por imagens e também ser dividida em tópicos
-para melhor acessibilidade.
+escrito, contendo referências e título. Além disso, é possível que o texto seja acompanhado por imagens relevantes, o que proporcionará uma experiência mais enriquecedora para os usuários do site.
 
 
 ## Mapa de navegação
 
-O diagram apresenta a experiência do usuário começando a partir da página inicial, na qual
-ele poderá acessar as páginas dos estudantes, o repositório, a categorização das áreas ou,
-se desejar, fazer um cadastro para criar e modificar páginas. As páginas seguem um critério de
-autentificação, no qual são necessários fontes, professores vigentes e também que o autor
-esteja associado á area que deseja discutir.
+O diagrama apresenta a experiência do usuário a partir da página inicial, onde ele terá acesso às diferentes seções do site, incluindo as páginas dos estudantes, o fórum, a criação de páginas e as dúvidas com respostas de outros estudantes. Para acessar o site, será necessário passar pelo processo de cadastro e pela página de login. No cabeçalho, serão disponibilizados links rápidos e fáceis para todas as ferramentas disponíveis, com o objetivo de facilitar a utilização pelos usuários.
 
 
 ![Exemplo de Diagrama de Navegação](../../docs/relatorio/images/Flowchart.jpg)
 
 # Conclusões
 
-O objetivo principal do projeto é a troca de conhecimento imparcial e confiável, onde os estudantes da Pontifica Universidade Católica de Minas Geral, da unidade de São Gabriel, poderiam se ajudar e aprender uns com os outros. Foi possível alcançar uma parte superficial do projeto considerando que falta ainda colocar as ideias em práticas e fazer os testes.
+O objetivo principal do projeto é promover a troca de conhecimento entre os estudantes da Pontifícia Universidade Católica de Minas Gerais, unidade São Gabriel, para que eles possam se ajudar e aprender uns com os outros. Tendo em vista as limitações iniciais e no decorrer do projeto, foi desenvolvido um site funcional que permite aos alunos se ajudarem de forma dinâmica e eficiente, colocando suas dúvidas e aguardando o retorno de seus colegas de unidade. A ideia é que os alunos possam se auxiliar mutuamente.
 
-Ademais, foi difícil encontrar um problema que fosse possível solucionar de uma forma dinâmica, levando em consideração que é um projeto muito recente. Entretanto, depois do entendimento do problema e a forma que seria desenvolvido tornou-se mais fácil 
-a execução , não  havendo mais uma dificuldade explicita.
+Ademais, foi desafiador colocar em prática algumas ideias. Com isso, o foco foi em desenvolver um site funcional, mantendo a ideia inicial e estabelecendo conexões entre os conteúdos disponíveis no site. Diante do exposto, o site atendeu às expectativas dos criadores, considerando as limitações apresentadas.
+
 # REFERÊNCIAS
 
 >TIAW - EXEMLO DE PROJETO, acessoa em: https://pucminas.instructure.com/courses/138430/files/8159085?module_item_id=3190302
