@@ -175,7 +175,25 @@ claras para o desenvolvimento do projeto em questão são apresentadas na tabela
   
 ## Metodologia
 
-Na sua essência, metodologia é um conjunto de métodos, técnicas e processos que visam orientar a realização de uma atividade ou pesquisa. Existem várias metodologias diferentes que são utilizadas em diferentes áreas do conhecimento. Além disso, a metodologia também é importante na vida cotidiana, pois permite que as pessoas organizem suas atividades de forma mais eficiente e produtiva. Uma das principais vantagens da metodologia é que ela permite que as empresas tomem decisões baseadas em dados e informações concretas. Isso é especialmente importante em um mundo cada vez mais competitivo e complexo, onde as empresas precisam ser ágeis e flexíveis para se adaptar às mudanças do mercado e às demandas dos clientes.
+Metodologia: Comunidade de Conhecimento em TI
+
+Identificação de necessidades e interesses: Inicialmente, será realizada uma pesquisa com os estudantes de cursos de TI para identificar suas necessidades, interesses e expectativas em relação à troca de conhecimentos. Isso ajudará a entender quais tópicos são mais relevantes, quais habilidades desejam desenvolver e quais recursos procuram.
+
+Criação da plataforma online: Com base nas informações coletadas, será desenvolvida uma plataforma online dedicada à comunidade de conhecimento em TI. A plataforma fornecerá recursos para compartilhamento de conteúdo, fóruns de discussão, grupos temáticos e outras funcionalidades que promovam a interação e a troca de conhecimentos entre os estudantes.
+
+Categorização e organização do conteúdo: O conteúdo compartilhado pelos estudantes será categorizado e organizado de maneira clara e acessível. Isso facilitará a busca por materiais específicos, permitindo que os participantes encontrem rapidamente recursos relevantes para seus interesses e necessidades de aprendizado.
+
+Estímulo à participação ativa: Serão adotadas estratégias para estimular a participação ativa dos estudantes na comunidade. Isso pode incluir desafios, competições, discussões moderadas por especialistas, eventos online, entre outras atividades. Essas iniciativas motivarão os estudantes a contribuir com seu conhecimento, compartilhar experiências e participar das discussões.
+
+Orientação e mentoria: Serão estabelecidos programas de orientação e mentoria, nos quais estudantes mais experientes ou profissionais da área possam oferecer orientações, conselhos e suporte individualizado aos participantes. Isso ajudará os estudantes a navegar em suas trajetórias acadêmicas e profissionais, fornecendo orientações valiosas para seu crescimento e desenvolvimento.
+
+Avaliação e feedback contínuo: Será implementado um sistema de avaliação e feedback contínuo para monitorar a eficácia da plataforma e a satisfação dos participantes. Isso permitirá realizar ajustes e melhorias com base nas necessidades e expectativas dos estudantes, garantindo que a comunidade de conhecimento em TI esteja sempre alinhada com suas necessidades.
+
+Parcerias com especialistas e empresas: Buscar parcerias com especialistas da área de TI e empresas do setor para trazer conteúdo exclusivo, webinars, workshops e oportunidades de estágio ou emprego para os participantes. Essas parcerias ajudarão a enriquecer a experiência dos estudantes, fornecendo insights valiosos sobre a indústria e facilitando a conexão com oportunidades reais no mercado de trabalho.
+
+Monitoramento e acompanhamento: Será realizado um monitoramento regular da atividade na plataforma, avaliando a participação dos estudantes, a qualidade do conteúdo compartilhado e o engajamento geral da comunidade. Isso permitirá identificar pontos fortes, áreas de melhoria e ajustar a estratégia do projeto conforme necessário.
+
+A metodologia proposta visa criar uma comunidade de conhecimento em TI ativa e engajada, promovendo a troca de conhecimentos, o desenvolvimento de habilidades e a conexão entre os estudantes. Ao seguir essa abordagem, o projeto poderá proporcionar um ambiente colaborativo e enriquecedor para os estudantes de TI, contribuindo para o seu crescimento acadêmico e profissional.
                
 ------------------------------------------------------------------------------
 Repositório de código fonte          | GitHub       | https://github.com/rommelcarneiro/tiaw-template
