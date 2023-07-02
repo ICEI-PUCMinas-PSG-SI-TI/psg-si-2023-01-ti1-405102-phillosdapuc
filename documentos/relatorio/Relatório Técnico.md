@@ -304,6 +304,6 @@ a execução , não  havendo mais uma dificuldade explicita.
 >
 >Prince, M. (2004). Does Active Learning Work? A Review of the Research.
 >
->Educause Learning Initiative. (2019). Horizon Report: Higher Education Edition.>
+>Educause Learning Initiative. (2019). Horizon Report: Higher Education Edition.
 
 
