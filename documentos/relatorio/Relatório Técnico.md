@@ -92,9 +92,9 @@ As personas analisadas durante o processo de entendimento do poblema seguem as f
 
 >**Personas**
 
-![p1](../../docs/relatorio/images/person1.png)
-![p1](../../docs/relatorio/images/person2.png)
-![p1](../../docs/relatorio/images/person3.png)
+![p1](../../docs/relatorio/images/Persona 1_ Lucas, estudante de Ciência da Computação_page-0001.jpg)
+![p1](../../docs/relatorio/images/Persona 2_ Juliana, estudante de Sistemas de Informação_page-0001.jpg)
+![p1](../../docs/relatorio/images/Persona 3_ Marcos, estudante de Engenharia de Software_page-0001.jpg)
 
  
 
