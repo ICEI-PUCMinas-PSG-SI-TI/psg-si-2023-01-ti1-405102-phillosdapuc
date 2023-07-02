@@ -129,10 +129,10 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-001| O site deve apresentar na página principal as últimas informaçoes da materia/curso marcadas com interesse | ALTA |
 |RF-002| O site deve permitir ao usuário cadastrar seu curso e matérias que estuda | ALTA |
 |RF-003| O site deve permitir ao usuário visualizar os cursos e matérias e escolher quais tem interesse | ALTA |
-|RF-004| O site deve permitir ao usuário vizualizar a fonte para confiablidade da/das informações | ALTA |
+|RF-004| O site deve permitir ao usuário vizualizar a fonte para confiablidade da/das informações | MÉDIA |
 |RF-005| O site deve filtro/pesquisa para permitir ao usuário localizar um tema específico que será informado na caixa de pesquisa. | MÉDIA |
 |RF-006| O site deve apresentar nas partes de materias/cursos quem está interessado em qual | MÉDIA |
-|RF-007| O site deve permiter que professores e coordenadores possam avaliar se as informaçoes trocadas entre usuários é verdadeira | ALTA |
+|RF-007| O site deve permiter que professores e coordenadores possam avaliar se as informaçoes trocadas entre usuários é verdadeira | BAIXA |
 |RF-008| O site deve permitir o usuário poder comentar suas dúvidas | ALTA |
 |RF-009| O site deve apresentar apresentar atalhos na tela para vizualizar as informações mais rapidamente | MÉDIA|
 |RF-010| O site deve permitir visualizar as informações de contatos do mantenedor do site | MÉDIA |
@@ -142,8 +142,8 @@ A tabela que segue apresenta os requisitos funcionais do projeto.
 |RF-014| O site deve permitir verificar as notícias salvas como preferidas | BAIXA |
 |RF-015| O site deve o/os administradores alterarem permissões, materias e cursos | ALTA |
 |RF-016| O site deve apresentar um tipo de SAC para futuras melhoras do site | MÉDIA |
-|RF-017| O site deve permitir professores/coordenadores editar informações divulgada entre os alunos | MÉDIA |
-|RF-018| O site deve apresentar uma página de conversas particulares entre todos os tipos de usuários | ALTA |
+|RF-017| O site deve permitir professores/coordenadores editar informações divulgada entre os alunos | BAIXA |
+|RF-018| O site deve apresentar uma página de conversas particulares entre todos os tipos de usuários | BAIXA |
 
 ### Requisitos Não Funcionais
 A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
@@ -154,7 +154,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF-002| O site deve ser publicado em um ambiente acessível Publicamente na Internet (Repl.it, GitHub Pages...)| ALTA |
 |RNF-003| O site deve ter bom nível de contraste entre os elementos datela em conformidade | MÉDIA |
 |RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA |
-|RNF-005| O site deve funcionar em tempo real para todos os usuários | ALTA |
+|RNF-005| O site deve funcionar em tempo real para todos os usuários | BAIXA |
 |RNF-006| O site deve ser protegido e seguro contra acesso não autorizado | ALTA |
 |RNF-007| O site deve ser capaz de lidar com o número necessário de usuários sem qualquer degradação no desempenho.  | ALTA |
 
