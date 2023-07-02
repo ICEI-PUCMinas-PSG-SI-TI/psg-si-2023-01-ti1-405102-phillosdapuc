@@ -104,19 +104,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...          | QUERO/PRECISO ...                  |PARA ...                                |
 |--------------------|------------------------------------|----------------------------------------|
-|Eduardo Pereira     | Dividir conhecimento               | Ajudar pessoas a crescer   |
-|Eduardo Pereira     | Adquirir conhecimento de otras áreas| Crescer profissionalmente e aprender novas coisas|
-|Eduardo Pereira     | Compartilhar o que as áreas que eu atuo realmente fazem | Pessoas interessadas não terem que perguntar toda hora |
-|Eduardo Pereira     | Fazer uma pesquisa sobre um tema especifico | Obejetividade em leituras |
-|Eduardo Pereira     | Avaliar se as informações são verdadeiras | Para os usários não adquirirem informaçoes falsas |
-|Vinicuis Oliveira   | Trocar conhecimentos                | Despender tempo com aprendizado |
-|Vinicius Oliveira   | Aprender sobre assuntos da minha própria área| Melhorar minhas notas |
-|Vinicius Oliveira   | Apresentar minhas duvidas | ter um melhor entendimento |
-|vinicius Oliveira   | Vizualizar conhecimentos da área de minha atuação | Gastar menos tempo procurando o que eu quero  |
-|Larissa Amaral      | Conhecer o que aprendem em outros cursos | Talvez trocar de curso |
-|Larissa Amaral      | Vizualizar um menu do que se faz em tal curso| Ter um melhor conhecimento de cada curso |
-|Larissa Amaral      | Abas que agilizam o uso do site | Economizar tempo |
-|Larissa Amaral      | quero saber  a fonte das informações | Para verificar a veracidade das informaões |
+|Lucas               | Aprender novas linguagens e tecnologias| Expandir seu conhecimento em programação  |
+|Lucas               | Construir um portfóilio sólido| Se tornar um desenvolvedor de software altamente qualificado|
+|Juliana             | Desenvolver habilidades de análise e solução de problemas | Trabalhar como analista de sistemas ou gerente de projeto |
+|Juliana             | Adquirir conhecimentos sólidos em grenciamento de projetos de TI| Trabalhar como analista de sistemas ou gerente de projeto |
+|Marcos              | Adquirir habilidades de programação avançadas | Se especializar em desenolvimento de aplicativos móveis|
+|Marcos              | Aprender sobre design de interfaces e entender o mercado de aplicativos móveis| Se tornar um empreendedor no setor de tecnologia |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar materias/cursos                | Adicionar ou remover materias/cursos |
 
