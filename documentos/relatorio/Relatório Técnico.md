@@ -224,7 +224,7 @@ principais e à um link de cadastro, caso este queira se tornar parte do grupo d
 
 
 O cadastro possui campos de preenchimento para validar um nome de usuário, Nome verdadeiro,
-assim como outras informações como idade, sexo, foto (opcional) e descrição do mesmo
+assim como outras informações como idade, sexo e descrição do mesmo.
 
 **Página de Estudantes**
 > 
