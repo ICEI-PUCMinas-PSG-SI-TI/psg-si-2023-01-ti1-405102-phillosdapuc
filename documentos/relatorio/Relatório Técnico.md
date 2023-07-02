@@ -280,9 +280,7 @@ O diagrama apresenta a experiência do usuário a partir da página inicial, ond
 
 # Conclusões
 
-O objetivo principal do projeto é promover a troca de conhecimento entre os estudantes da Pontifícia Universidade Católica de Minas Gerais, unidade São Gabriel, para que eles possam se ajudar e aprender uns com os outros. Tendo em vista as limitações iniciais e no decorrer do projeto, foi desenvolvido um site funcional que permite aos alunos se ajudarem de forma dinâmica e eficiente, colocando suas dúvidas e aguardando o retorno de seus colegas de unidade. A ideia é que os alunos possam se auxiliar mutuamente.
-
-Ademais, foi desafiador colocar em prática algumas ideias. Com isso, o foco foi em desenvolver um site funcional, mantendo a ideia inicial e estabelecendo conexões entre os conteúdos disponíveis no site. Diante do exposto, o site atendeu às expectativas dos criadores, considerando as limitações apresentadas.
+Uma ferramenta que facilita a troca de conhecimentos dentro da faculdade desempenha um papel crucial no desenvolvimento acadêmico dos estudantes. Através dessa ferramenta, os estudantes têm acesso a uma ampla rede de conhecimento, promovendo uma aprendizagem colaborativa, ativa e prática. Além disso, a ferramenta estimula a criatividade, fomenta a inovação, proporciona oportunidades de networking e parcerias. Com todos esses benefícios, é inegável que essa ferramenta desempenha um papel fundamental no enriquecimento da experiência educacional dos estudantes e no fortalecimento do ambiente acadêmico como um todo.
 
 # REFERÊNCIAS
 
